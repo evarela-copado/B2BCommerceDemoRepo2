@@ -89,9 +89,7 @@
     <externalSharingModel>ReadWrite</externalSharingModel>
     <searchLayouts>
         <customTabListAdditionalFields>Description</customTabListAdditionalFields>
-        <customTabListAdditionalFields>CurrencyIsoCode</customTabListAdditionalFields>
         <searchResultsAdditionalFields>Description</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>CurrencyIsoCode</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

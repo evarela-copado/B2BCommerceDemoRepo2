@@ -21,7 +21,6 @@
     <columns>
         <field>ACCOUNT.NAME</field>
     </columns>
-    <currency>USD</currency>
     <description>How many open support cases do we have by priority?</description>
     <filter>
         <criteriaItems>

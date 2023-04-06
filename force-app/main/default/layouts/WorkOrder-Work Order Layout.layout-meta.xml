@@ -62,10 +62,6 @@
                 <behavior>Edit</behavior>
                 <field>ServiceContractId</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Required</behavior>
-                <field>CurrencyIsoCode</field>
-            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

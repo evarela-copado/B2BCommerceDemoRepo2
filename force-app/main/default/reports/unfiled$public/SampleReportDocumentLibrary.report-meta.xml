@@ -18,7 +18,6 @@
     <columns>
         <field>DOC_DESC</field>
     </columns>
-    <currency>USD</currency>
     <description>What documents are in the document library?</description>
     <format>Summary</format>
     <groupingsDown>

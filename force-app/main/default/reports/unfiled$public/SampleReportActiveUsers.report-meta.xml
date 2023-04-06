@@ -24,7 +24,6 @@
     <columns>
         <field>USERNAME</field>
     </columns>
-    <currency>USD</currency>
     <description>Who are my active users?</description>
     <format>Summary</format>
     <groupingsDown>

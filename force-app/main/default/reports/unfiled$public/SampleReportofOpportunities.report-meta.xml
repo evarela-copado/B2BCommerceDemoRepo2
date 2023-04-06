@@ -39,7 +39,6 @@
     <columns>
         <field>ACCOUNT_NAME</field>
     </columns>
-    <currency>USD</currency>
     <description>How many opportunities are being added to Salesforce?</description>
     <format>Summary</format>
     <groupingsDown>

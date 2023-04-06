@@ -24,7 +24,6 @@
     <columns>
         <field>LOGIN_DATE</field>
     </columns>
-    <currency>USD</currency>
     <description>Who is not logging in?</description>
     <filter>
         <criteriaItems>

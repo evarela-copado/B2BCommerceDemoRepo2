@@ -19,10 +19,6 @@
                 <behavior>Edit</behavior>
                 <field>StockKeepingUnit</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Required</behavior>
-                <field>CurrencyIsoCode</field>
-            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -102,15 +98,15 @@
         </quickActionListItems>
     </quickActionList>
     <relatedLists>
-        <fields>ProductCategory</fields>
-        <fields>IsPrimaryCategory</fields>
-        <relatedList>RelatedProductCategories</relatedList>
-    </relatedLists>
-    <relatedLists>
         <fields>Policy</fields>
         <fields>PolicyCreatedBy</fields>
         <fields>IsPolicyActive</fields>
         <relatedList>CommerceEntitlementPolicies</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>ProductCategory</fields>
+        <fields>IsPrimaryCategory</fields>
+        <relatedList>RelatedProductCategories</relatedList>
     </relatedLists>
     <relatedLists>
         <relatedList>RelatedStandardPriceList</relatedList>
@@ -124,7 +120,7 @@
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
-        <masterLabel>00hDo000000nSS4</masterLabel>
+        <masterLabel>00hDo000000nRju</masterLabel>
         <sizeX>4</sizeX>
         <sizeY>0</sizeY>
         <summaryLayoutStyle>Default</summaryLayoutStyle>

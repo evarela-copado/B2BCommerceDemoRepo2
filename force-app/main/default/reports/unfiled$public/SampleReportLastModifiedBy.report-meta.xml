@@ -21,7 +21,6 @@
     <columns>
         <field>LASTRUNDATE</field>
     </columns>
-    <currency>USD</currency>
     <description>Who is tweaking custom reports?</description>
     <format>Summary</format>
     <groupingsDown>

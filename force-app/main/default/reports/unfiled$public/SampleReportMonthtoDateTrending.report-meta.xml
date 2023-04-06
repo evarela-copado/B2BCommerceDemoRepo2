@@ -40,7 +40,6 @@
     <columns>
         <field>ACCOUNT_NAME</field>
     </columns>
-    <currency>USD</currency>
     <description>How do sales this month correlate to prior months?</description>
     <format>Matrix</format>
     <groupingsAcross>

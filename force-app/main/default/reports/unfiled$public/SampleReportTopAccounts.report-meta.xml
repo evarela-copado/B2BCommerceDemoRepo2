@@ -43,7 +43,6 @@
     <columns>
         <field>ROLLUP_DESCRIPTION</field>
     </columns>
-    <currency>USD</currency>
     <description>Which accounts are generating the most sales opportunities?</description>
     <format>Summary</format>
     <groupingsDown>

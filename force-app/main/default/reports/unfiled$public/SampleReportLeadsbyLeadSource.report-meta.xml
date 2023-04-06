@@ -24,7 +24,6 @@
     <columns>
         <field>EMAIL</field>
     </columns>
-    <currency>USD</currency>
     <description>How many leads has each lead source generated for me?</description>
     <format>Summary</format>
     <groupingsDown>
